@@ -61,6 +61,7 @@ body {
 .ctn1{
     text-align: center;
     
+    
 }
 .ctn1 button{
 
@@ -69,6 +70,20 @@ body {
     height:80px;
     color: bisque;
     font-size: larger;
-    border-radius: 15px;
+    border-radius: 50px;
     
 }
+.link1 a{
+  text-decoration: none;
+  color: black;
+}
+
+.ctn1 .rating{
+  display: flex;
+  justify-content: space-around;
+}
+
+
+/*  section2 */
+
+
