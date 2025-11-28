@@ -182,15 +182,10 @@ gap: 8px;
 
     /* section3 */
 
-    .content2{
-    padding: 5rem;
-}
-.advertising{
- display: flex;
-  flex-direction: row; 
-  align-items: center; 
-  justify-content: space-around; 
-}
+.content2{
+padding: 5rem;
+display: flex;
 
+}
 
 
